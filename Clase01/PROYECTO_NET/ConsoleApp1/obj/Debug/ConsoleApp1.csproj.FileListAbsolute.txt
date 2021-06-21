@@ -1,0 +1,7 @@
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GitHub\SolucionesNET-Grupo04\Clase01\PROYECTO_NET\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
