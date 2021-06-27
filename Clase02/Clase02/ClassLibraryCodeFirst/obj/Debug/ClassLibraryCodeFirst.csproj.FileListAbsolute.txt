@@ -1,0 +1,12 @@
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\ClassLibraryCodeFirst.dll.config
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\ClassLibraryCodeFirst.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\ClassLibraryCodeFirst.pdb
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\EntityFramework.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\EntityFramework.xml
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\obj\Debug\ClassLibraryCodeFirst.csprojAssemblyReference.cache
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\obj\Debug\ClassLibraryCodeFirst.csproj.CoreCompileInputs.cache
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\obj\Debug\ClassLibraryCodeFirst.csproj.CopyComplete
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\obj\Debug\ClassLibraryCodeFirst.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\ClassLibraryCodeFirst\obj\Debug\ClassLibraryCodeFirst.pdb

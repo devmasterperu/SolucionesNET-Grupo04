@@ -1,0 +1,12 @@
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EjercicioVenta.dll.config
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EjercicioVenta.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EjercicioVenta.pdb
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EntityFramework.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EntityFramework.xml
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\obj\Debug\EjercicioVenta.csprojAssemblyReference.cache
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\obj\Debug\EjercicioVenta.csproj.CoreCompileInputs.cache
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\obj\Debug\EjercicioVenta.csproj.CopyComplete
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\obj\Debug\EjercicioVenta.dll
+D:\GitHub\SolucionesNET-Grupo04\Clase02\Clase02\EjercicioVenta\obj\Debug\EjercicioVenta.pdb
