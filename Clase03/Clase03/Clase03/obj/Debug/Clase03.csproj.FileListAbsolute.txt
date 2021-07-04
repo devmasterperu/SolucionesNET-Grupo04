@@ -1,0 +1,12 @@
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\Clase03.exe.config
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\Clase03.exe
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\Clase03.pdb
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\EntityFramework.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\EntityFramework.xml
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\obj\Debug\Clase03.csprojAssemblyReference.cache
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\obj\Debug\Clase03.csproj.CoreCompileInputs.cache
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\obj\Debug\Clase03.csproj.CopyComplete
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\obj\Debug\Clase03.exe
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase03\Clase03\Clase03\obj\Debug\Clase03.pdb
