@@ -1,0 +1,7 @@
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\Clase04.exe.config
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\Clase04.exe
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\Clase04.pdb
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.csprojAssemblyReference.cache
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.csproj.CoreCompileInputs.cache
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.exe
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.pdb
