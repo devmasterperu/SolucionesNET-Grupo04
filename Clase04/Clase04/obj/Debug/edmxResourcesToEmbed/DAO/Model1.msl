@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BD_CONTACTABILIDADModelStoreContainer" CdmEntityContainer="connBD_CONTACTABILIDAD">
+    <EntitySetMapping Name="tb_Categoria">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Categoria">
+        <MappingFragment StoreEntitySet="tb_Categoria">
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="nombreCategoria" ColumnName="nombreCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Cliente">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Cliente">
+        <MappingFragment StoreEntitySet="tb_Cliente">
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="nombreCliente" ColumnName="nombreCliente" />
+          <ScalarProperty Name="apellidosCliente" ColumnName="apellidosCliente" />
+          <ScalarProperty Name="fechaNacimientoCliente" ColumnName="fechaNacimientoCliente" />
+          <ScalarProperty Name="numeroDocumentoCliente" ColumnName="numeroDocumentoCliente" />
+          <ScalarProperty Name="celularCliente" ColumnName="celularCliente" />
+          <ScalarProperty Name="direccionCliente" ColumnName="direccionCliente" />
+          <ScalarProperty Name="emailCliente" ColumnName="emailCliente" />
+          <ScalarProperty Name="generoCliente" ColumnName="generoCliente" />
+          <ScalarProperty Name="estadoCliente" ColumnName="estadoCliente" />
+          <ScalarProperty Name="idTipoDocumento" ColumnName="idTipoDocumento" />
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="creacionUser" ColumnName="creacionUser" />
+          <ScalarProperty Name="fechaCreacion" ColumnName="fechaCreacion" />
+          <ScalarProperty Name="modificacionUser" ColumnName="modificacionUser" />
+          <ScalarProperty Name="fechaModificacion" ColumnName="fechaModificacion" />
+          <ScalarProperty Name="idubigeo" ColumnName="idubigeo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Colaborador">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Colaborador">
+        <MappingFragment StoreEntitySet="tb_Colaborador">
+          <ScalarProperty Name="idColaborador" ColumnName="idColaborador" />
+          <ScalarProperty Name="nombreColaborador" ColumnName="nombreColaborador" />
+          <ScalarProperty Name="apellidoColaborador" ColumnName="apellidoColaborador" />
+          <ScalarProperty Name="numeroDocumentoColaborador" ColumnName="numeroDocumentoColaborador" />
+          <ScalarProperty Name="idRol" ColumnName="idRol" />
+          <ScalarProperty Name="idTipoDocumento" ColumnName="idTipoDocumento" />
+          <ScalarProperty Name="idubigeo" ColumnName="idubigeo" />
+          <ScalarProperty Name="nombUser" ColumnName="nombUser" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_ContactoCliente">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_ContactoCliente">
+        <MappingFragment StoreEntitySet="tb_ContactoCliente">
+          <ScalarProperty Name="idContactabilidad" ColumnName="idContactabilidad" />
+          <ScalarProperty Name="idColaborador" ColumnName="idColaborador" />
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="fechaContactoCliente" ColumnName="fechaContactoCliente" />
+          <ScalarProperty Name="comentarioContactoCliente" ColumnName="comentarioContactoCliente" />
+          <ScalarProperty Name="estadoContactoCliente" ColumnName="estadoContactoCliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Meta">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Meta">
+        <MappingFragment StoreEntitySet="tb_Meta">
+          <ScalarProperty Name="idRol" ColumnName="idRol" />
+          <ScalarProperty Name="idSemanaPlan" ColumnName="idSemanaPlan" />
+          <ScalarProperty Name="totalMeta" ColumnName="totalMeta" />
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Producto">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Producto">
+        <MappingFragment StoreEntitySet="tb_Producto">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="nombreProducto" ColumnName="nombreProducto" />
+          <ScalarProperty Name="descripcionProducto" ColumnName="descripcionProducto" />
+          <ScalarProperty Name="estadoProducto" ColumnName="estadoProducto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Rol">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Rol">
+        <MappingFragment StoreEntitySet="tb_Rol">
+          <ScalarProperty Name="idRol" ColumnName="idRol" />
+          <ScalarProperty Name="nombreRol" ColumnName="nombreRol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_SemanaPlanificada">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_SemanaPlanificada">
+        <MappingFragment StoreEntitySet="tb_SemanaPlanificada">
+          <ScalarProperty Name="idSemanaPlan" ColumnName="idSemanaPlan" />
+          <ScalarProperty Name="nombreSemanaPlan" ColumnName="nombreSemanaPlan" />
+          <ScalarProperty Name="fechaInicio" ColumnName="fechaInicio" />
+          <ScalarProperty Name="fechaFin" ColumnName="fechaFin" />
+          <ScalarProperty Name="estadoSemanaPlan" ColumnName="estadoSemanaPlan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_TipoDocumento">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_TipoDocumento">
+        <MappingFragment StoreEntitySet="tb_TipoDocumento">
+          <ScalarProperty Name="idTipoDocumento" ColumnName="idTipoDocumento" />
+          <ScalarProperty Name="nombreTipoDocumento" ColumnName="nombreTipoDocumento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Ubigeo">
+      <EntityTypeMapping TypeName="BD_CONTACTABILIDADModel.tb_Ubigeo">
+        <MappingFragment StoreEntitySet="tb_Ubigeo">
+          <ScalarProperty Name="idubigeo" ColumnName="idubigeo" />
+          <ScalarProperty Name="distrito" ColumnName="distrito" />
+          <ScalarProperty Name="provincia" ColumnName="provincia" />
+          <ScalarProperty Name="departamento" ColumnName="departamento" />
+          <ScalarProperty Name="poblacion" ColumnName="poblacion" />
+          <ScalarProperty Name="superficie" ColumnName="superficie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

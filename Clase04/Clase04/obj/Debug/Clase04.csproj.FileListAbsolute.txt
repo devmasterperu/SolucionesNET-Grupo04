@@ -5,3 +5,8 @@ D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.csp
 D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.csproj.CoreCompileInputs.cache
 D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.exe
 D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.pdb
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\EntityFramework.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\EntityFramework.xml
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase04\Clase04\obj\Debug\Clase04.csproj.CopyComplete

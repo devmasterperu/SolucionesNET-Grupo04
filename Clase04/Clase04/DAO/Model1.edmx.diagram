@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5311f1e8f9734dc2a1e12cb488c1ab69" Name="Diagram1">
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Categoria" Width="1.5" PointX="3.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Cliente" Width="1.5" PointX="6" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Colaborador" Width="1.5" PointX="3" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_ContactoCliente" Width="1.5" PointX="8.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Meta" Width="1.5" PointX="6" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Producto" Width="1.5" PointX="6" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Rol" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_SemanaPlanificada" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_TipoDocumento" Width="1.5" PointX="0.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BD_CONTACTABILIDADModel.tb_Ubigeo" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Categoria7" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.FK_tb_Cliente_tb_Ubigeo" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Cliente10" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_TipoDocumento3" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.FK_tb_Colaborador_tb_Ubigeo" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Colaborador9" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Rol15" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_TipoDocumento4" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Producto14" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Producto19" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_Rol16" ManuallyRouted="false" />
+        <AssociationConnector Association="BD_CONTACTABILIDADModel.Reftb_SemanaPlanificada17" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
