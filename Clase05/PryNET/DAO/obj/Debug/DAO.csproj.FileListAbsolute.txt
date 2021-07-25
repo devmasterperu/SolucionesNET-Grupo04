@@ -1,0 +1,11 @@
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\DAO.dll.config
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\DAO.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\DAO.pdb
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.xml
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.dll
+D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.pdb

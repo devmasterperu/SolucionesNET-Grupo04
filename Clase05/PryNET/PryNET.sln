@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{F1E9D8D5-571A-49BA-9979-5E50F12BEA98}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{D4017151-0FDC-4C77-AEEB-917780245772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{F788C898-72CB-4520-AA2F-EAB1AF76D20B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F1E9D8D5-571A-49BA-9979-5E50F12BEA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1E9D8D5-571A-49BA-9979-5E50F12BEA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1E9D8D5-571A-49BA-9979-5E50F12BEA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1E9D8D5-571A-49BA-9979-5E50F12BEA98}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D4017151-0FDC-4C77-AEEB-917780245772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D4017151-0FDC-4C77-AEEB-917780245772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4017151-0FDC-4C77-AEEB-917780245772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4017151-0FDC-4C77-AEEB-917780245772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
