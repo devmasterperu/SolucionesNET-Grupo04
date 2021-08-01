@@ -9,3 +9,15 @@ D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.cspr
 D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.dll
 D:\GitHub\Dev Master\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.pdb
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\DAO.dll.config
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\DAO.dll
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\DAO.pdb
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.dll
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.xml
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.dll
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.pdb
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache

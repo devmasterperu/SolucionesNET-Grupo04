@@ -17,16 +17,16 @@ namespace DAO
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public tb_Rol()
         {
-            this.tb_Colaborador = new HashSet<tb_Colaborador>();
             this.tb_Meta = new HashSet<tb_Meta>();
+            this.tb_Colaborador = new HashSet<tb_Colaborador>();
         }
     
         public int idRol { get; set; }
         public string nombreRol { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tb_Colaborador> tb_Colaborador { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tb_Meta> tb_Meta { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<tb_Colaborador> tb_Colaborador { get; set; }
     }
 }

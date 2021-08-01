@@ -7,7 +7,8 @@
 }
 
 <h2>Lista de Categorías</h2>
-@Html.ActionLink("Crear","New","Categoria")
+@*@Html.ActionLink("Crear","New","Categoria")*@
+<a onclick="modalCrearCategoria()" class="btn btn-info glyphicon glyphicon-plus" title="Nueva Categoría"></a>
 <table class="table">
     <thead>
         <tr>
@@ -53,4 +54,13 @@
         }
     </tbody>
 </table>
-
+<script type="text/javascript">
+    $.getScript("/Scripts/jsCategoria.js")
+        .done(function (script, textStatus) {
+            //console.log(textStatus);
+        })
+        .fail(function (jqxhr, settings, exception) {
+            console.log("falló carga de script jsCategoria");
+            console.log(exception);
+        });
+</script>

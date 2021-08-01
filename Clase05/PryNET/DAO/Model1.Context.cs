@@ -25,10 +25,8 @@ namespace DAO
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<tb_Categoria> tb_Categoria { get; set; }
         public virtual DbSet<tb_Cliente> tb_Cliente { get; set; }
-        public virtual DbSet<tb_Colaborador> tb_Colaborador { get; set; }
         public virtual DbSet<tb_ContactoCliente> tb_ContactoCliente { get; set; }
         public virtual DbSet<tb_Meta> tb_Meta { get; set; }
         public virtual DbSet<tb_Producto> tb_Producto { get; set; }
@@ -36,5 +34,6 @@ namespace DAO
         public virtual DbSet<tb_SemanaPlanificada> tb_SemanaPlanificada { get; set; }
         public virtual DbSet<tb_TipoDocumento> tb_TipoDocumento { get; set; }
         public virtual DbSet<tb_Ubigeo> tb_Ubigeo { get; set; }
+        public virtual DbSet<tb_Colaborador> tb_Colaborador { get; set; }
     }
 }

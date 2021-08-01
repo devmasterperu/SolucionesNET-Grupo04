@@ -23,7 +23,7 @@ namespace DAO
         public string estadoContactoCliente { get; set; }
     
         public virtual tb_Cliente tb_Cliente { get; set; }
-        public virtual tb_Colaborador tb_Colaborador { get; set; }
         public virtual tb_Producto tb_Producto { get; set; }
+        public virtual tb_Colaborador tb_Colaborador { get; set; }
     }
 }

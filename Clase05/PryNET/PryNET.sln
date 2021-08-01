@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{F788C898-72CB-4520-AA2F-EAB1AF76D20B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEAN", "BEAN\BEAN.csproj", "{B0FB3AB3-9D31-450C-A39D-087590D2F671}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F788C898-72CB-4520-AA2F-EAB1AF76D20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FB3AB3-9D31-450C-A39D-087590D2F671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FB3AB3-9D31-450C-A39D-087590D2F671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FB3AB3-9D31-450C-A39D-087590D2F671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FB3AB3-9D31-450C-A39D-087590D2F671}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

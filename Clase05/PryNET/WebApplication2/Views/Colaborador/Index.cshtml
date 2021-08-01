@@ -1,0 +1,39 @@
+﻿@using DAO
+@model List<tb_Colaborador>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Colaborador</h2>
+@Html.ActionLink("Crear", "Nuevo", "Colaborador")
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Nombre</td>
+            <td>Apellido</td>
+            <td>NumDoc</td>
+            <td>Id Tipo Documento</td>
+            <td>Detalle Tipo Doc</td>
+            <td>Id Rol</td>
+            <td>Detalle Rol</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.idColaborador</td>
+            <td>@item.nombreColaborador</td>
+            <td>@item.apellidoColaborador</td>
+            <td>@item.numeroDocumentoColaborador</td>
+            <td>@item.idTipoDocumento</td>
+            <td>@item.tb_TipoDocumento.nombreTipoDocumento</td>
+            <td>@item.idRol</td>
+            <td>@item.tb_Rol.nombreRol</td>
+        </tr>
+        }
+    </tbody>
+</table>
+

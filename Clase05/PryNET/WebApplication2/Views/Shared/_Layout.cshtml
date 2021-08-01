@@ -1,10 +1,11 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Scripts.Render("~/bundles/jquery")
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
@@ -24,9 +25,35 @@
                     <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
                     <li>@Html.ActionLink("Acerca de", "About", "Home")</li>
                     <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
-                    <li>
-                        @Html.ActionLink("Categoria","Index","Categoria")</li>
+                    <li>@Html.ActionLink("Categoria","Index","Categoria")</li>
                 </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">USUARIO : @Session["usuario"] <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/Login/CerrarSesion">Cerrar Sessión</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="divContenedorModal">
+        <div id="myModal" level="1" class="modal fade loading" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+            <div id="modalPopup" class="modal-dialog modal-xs">
+                <div class="modal-content overlay-wrapper">
+                    <div id="divModalHeader" class="modal-header">
+                        <button id="btnDismissModal" type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 id="headerModal" class="modal-title"></h4>
+                    </div>
+                    <div id="bodyModal" class="modal-body">
+                        
+                    </div>
+                    <div id="footerModal" class="modal-footer" style="display: none;">
+                        @*<button id="btnGrabarModal" type="button" class="btn btn-primary btn-save">Grabar</button>
+                        <button id="btnCancelarModal" type="button" class="btn btn-default btn-cancel" data-dismiss="modal">Cerrar</button>*@
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -38,7 +65,6 @@
         </footer>
     </div>
 
-    @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </body>

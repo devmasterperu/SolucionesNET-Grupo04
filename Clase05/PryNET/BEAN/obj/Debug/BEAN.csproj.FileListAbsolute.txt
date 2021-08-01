@@ -1,0 +1,5 @@
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\BEAN\bin\Debug\BEAN.dll
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\BEAN\bin\Debug\BEAN.pdb
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\BEAN\obj\Debug\BEAN.csproj.CoreCompileInputs.cache
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\BEAN\obj\Debug\BEAN.dll
+D:\GitHub\DevMaster\SolucionesNET-Grupo04\Clase05\PryNET\BEAN\obj\Debug\BEAN.pdb
